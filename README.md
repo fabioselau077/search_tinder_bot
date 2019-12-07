@@ -15,7 +15,7 @@ Não é crime, mas como todos os bots, fere os [Termos e Condições do Tinder](
 </br>
 3 anos que vejo pessoas do mundo todo utilizando bots no Tinder (auto-liker) e nunca vi relatos de ninguém banido. </br>
 Se for pela lógica, se não bloqueiam nem os bots que dão likes em todas as pessoas, imagina um que só dá deslike. </br>
-**Mas você tá ciente que pode ser banido e é de total responsabilidade sua.**
+**Mas você tá ciente que pode ser banido e é de total responsabilidade sua.
 
 </br>
 

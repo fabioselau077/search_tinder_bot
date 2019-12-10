@@ -21,6 +21,7 @@ Se for pela lógica, se não bloqueiam nem os bots que dão likes em todas as pe
 
 ## Checklist
 - [x] Criação da Base
-- [ ] Loop automático
+- [x] Loop automático
+- [ ] BOT com a Idade
 - [ ] Sistema de notificação
 - [ ] Novos parâmetros de pesquisa (nome completo | nome | idade | foto)

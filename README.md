@@ -9,6 +9,9 @@ Esse não é para dá like em todos, mas sim encontrar uma pessoa específica. S
 Entrar no Tinder Web e após colar no console, basta apertar enter.
 </br>
 
+## Prévia
+<img src="https://user-images.githubusercontent.com/57275833/70491939-22113580-1ad9-11ea-9e42-4fc51a38e52d.gif">
+
 ## Isso é crime?
 Não é crime, mas como todos os bots, fere os [Termos e Condições do Tinder](https://www.help.tinder.com/hc/pt/articles/360003045532-Termos-e-condi%C3%A7%C3%B5es-internacionais).</br>
 - Usar qualquer robot, bot, spider, crawler, scraper, aplicação de pesquisa/recuperação, proxy ou outro dispositivo manual ou automático, método ou processo de acesso, recuperar, indexar, efetuar “data mining”, ou de qualquer forma reproduzir ou contornar a estrutura de navegação ou a apresentação do Serviço ou o seu conteúdo.
